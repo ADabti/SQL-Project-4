@@ -4,8 +4,8 @@ import psycopg2
 
 # Login details for database user
 dbname = "abdulrad" #Set in your UiO-username
-user = "abdulrad_priv" # Set in your priv-user (UiO-username + _priv)
-pwd = "eiK7ab0Aer" # Set inn the password for the _priv-user you got in a mail
+user = "æææææææ" # Set in your priv-user (UiO-username + _priv)
+pwd = "ææææææ" # Set inn the password for the _priv-user you got in a mail
 
 # Gather all connection info into one string
 connection = \
